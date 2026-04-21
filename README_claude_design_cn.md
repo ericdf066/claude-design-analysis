@@ -1,5 +1,9 @@
 # Claude Design 深度分析
 
+[![GitHub stars](https://img.shields.io/github/stars/ericdf066/claude-design-analysis?style=flat-square)](https://github.com/ericdf066/claude-design-analysis/stargazers)
+[![License](https://img.shields.io/github/license/ericdf066/claude-design-analysis?style=flat-square)](https://github.com/ericdf066/claude-design-analysis/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](#)
+
 > 一份围绕 Claude Design 的产品深度分析，重点讨论其产品定位、能力体系、竞争格局、工作流价值与长期商业意义。
 
 ---
